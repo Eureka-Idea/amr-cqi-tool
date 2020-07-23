@@ -292,7 +292,7 @@ class App extends React.Component {
           <Tab eventKey='inputs' title={inputsTitle}>
             {this.getInputsTab()}
           </Tab>
-          <Tab eventKey='dashboard' title='Dashboard' >
+          <Tab eventKey='dashboard' title='Dashboard' disabled={!facility || !inputs}>
             {this.getDashboardTab()}
           </Tab>
         </Tabs>

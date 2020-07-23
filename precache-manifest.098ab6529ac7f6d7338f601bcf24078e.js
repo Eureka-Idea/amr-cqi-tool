@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c70fedb73dd0a571ec6a5e14ca4a5cf2",
+    "revision": "db96357a4a709c5563aef33cb09684ce",
     "url": "/amr-cqi-tool/index.html"
   },
   {
-    "revision": "5f793295f63f3b21419c",
+    "revision": "f87e053c158e9d471998",
     "url": "/amr-cqi-tool/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0ae6c4e381f546129d3a",
+    "revision": "083e5765ace0d92fc989",
     "url": "/amr-cqi-tool/static/css/main.22d60f6c.chunk.css"
   },
   {
-    "revision": "5f793295f63f3b21419c",
-    "url": "/amr-cqi-tool/static/js/2.3fd819b4.chunk.js"
+    "revision": "f87e053c158e9d471998",
+    "url": "/amr-cqi-tool/static/js/2.85cf17d0.chunk.js"
   },
   {
     "revision": "c836aaadfe43dfd9fcb8ddeddfd61e18",
-    "url": "/amr-cqi-tool/static/js/2.3fd819b4.chunk.js.LICENSE.txt"
+    "url": "/amr-cqi-tool/static/js/2.85cf17d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ae6c4e381f546129d3a",
-    "url": "/amr-cqi-tool/static/js/main.386ee931.chunk.js"
+    "revision": "083e5765ace0d92fc989",
+    "url": "/amr-cqi-tool/static/js/main.8fd62fda.chunk.js"
   },
   {
     "revision": "4ca44460120222b81a60",

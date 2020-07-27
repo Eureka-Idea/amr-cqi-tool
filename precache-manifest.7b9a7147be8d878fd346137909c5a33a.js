@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db96357a4a709c5563aef33cb09684ce",
+    "revision": "fc1c45f6eae3a5e46a87b186a861097c",
     "url": "/amr-cqi-tool/index.html"
   },
   {
-    "revision": "f87e053c158e9d471998",
+    "revision": "d6771a3e55993ff36b56",
     "url": "/amr-cqi-tool/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "083e5765ace0d92fc989",
-    "url": "/amr-cqi-tool/static/css/main.22d60f6c.chunk.css"
+    "revision": "22837e9d566ef0c9789e",
+    "url": "/amr-cqi-tool/static/css/main.56f2d35f.chunk.css"
   },
   {
-    "revision": "f87e053c158e9d471998",
-    "url": "/amr-cqi-tool/static/js/2.85cf17d0.chunk.js"
+    "revision": "d6771a3e55993ff36b56",
+    "url": "/amr-cqi-tool/static/js/2.ddf71d46.chunk.js"
   },
   {
     "revision": "c836aaadfe43dfd9fcb8ddeddfd61e18",
-    "url": "/amr-cqi-tool/static/js/2.85cf17d0.chunk.js.LICENSE.txt"
+    "url": "/amr-cqi-tool/static/js/2.ddf71d46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "083e5765ace0d92fc989",
-    "url": "/amr-cqi-tool/static/js/main.8fd62fda.chunk.js"
+    "revision": "22837e9d566ef0c9789e",
+    "url": "/amr-cqi-tool/static/js/main.394754c9.chunk.js"
   },
   {
     "revision": "4ca44460120222b81a60",
@@ -36,8 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amr-cqi-tool/static/media/bd-logo.2ff30b5d.png"
   },
   {
-    "revision": "8ee6f9f881c72c4f97a90c589c08350f",
-    "url": "/amr-cqi-tool/static/media/dashboard.8ee6f9f8.png"
+    "revision": "89f7327af8635afbc662e5f4b8ce6235",
+    "url": "/amr-cqi-tool/static/media/dashboard1.89f7327a.png"
+  },
+  {
+    "revision": "3069821dbb261eff5f0381e3edfb3617",
+    "url": "/amr-cqi-tool/static/media/dashboard2.3069821d.png"
   },
   {
     "revision": "58ca34befa5f380349b5673e39c1e0c3",

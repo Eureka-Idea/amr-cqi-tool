@@ -248,12 +248,8 @@ class App extends React.Component {
         <h3 className='my-3 mx-5'>Summary of Recommended Actions by Priority Level</h3>
         <div className='my-3 mx-5'>Please select Clinical Facility or Laboratory. The recommended actions are sorted by priority level and assigned a performance rating, based on the assessment results.</div>
         <div className='note my-3 mx-5'><em>
-          Note: This is indicative of the summary output dashboard, but is non-functioning in this online prototype.
+          Note: The dashboard image below is indicative only and would be developed further in a full online tool.
         </em></div>
-        <div className='dash-images-1 text-center m-5'>
-          <img src={dashboard1} />
-          <img src={dashboard2} />
-        </div>
         <div className='dash-images text-center m-5'>
           <img src={dashboard1} />
           <img src={dashboard2} />

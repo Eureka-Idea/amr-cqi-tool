@@ -188,12 +188,7 @@ input.target ~ label {
   margin-top: -10px;
 }
 
-.dash-images, .dash-images-1 {
-  /* width: 100%; */
-  /* padding: 25px; */
-}
-
-.dash-images-1 img {
+.dash-images img {
   width: 100%;
 }
 

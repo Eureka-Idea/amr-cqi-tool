@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/amr-cqi-tool/precache-manifest.7b9a7147be8d878fd346137909c5a33a.js"
+  "/amr-cqi-tool/precache-manifest.10e32c14caea5d5ed106dbfdcd1fe3d1.js"
 );
 
 self.addEventListener('message', (event) => {

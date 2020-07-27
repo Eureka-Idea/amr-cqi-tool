@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc1c45f6eae3a5e46a87b186a861097c",
+    "revision": "b7b5e34c856b63d4f77b5237dbe6414e",
     "url": "/amr-cqi-tool/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amr-cqi-tool/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "22837e9d566ef0c9789e",
-    "url": "/amr-cqi-tool/static/css/main.56f2d35f.chunk.css"
+    "revision": "0f0bf04ca53eeb2897fa",
+    "url": "/amr-cqi-tool/static/css/main.490fdbee.chunk.css"
   },
   {
     "revision": "d6771a3e55993ff36b56",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amr-cqi-tool/static/js/2.ddf71d46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22837e9d566ef0c9789e",
+    "revision": "0f0bf04ca53eeb2897fa",
     "url": "/amr-cqi-tool/static/js/main.394754c9.chunk.js"
   },
   {

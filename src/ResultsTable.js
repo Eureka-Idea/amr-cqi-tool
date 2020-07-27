@@ -129,7 +129,7 @@ class ResultsTable extends React.Component {
         <div>{resources && resources.map(r => {
           return (
             <div key={r.title} className='link'>
-              <a href={r.link}>{r.title}</a>
+              <a href={r.link} target='_blank'>{r.title}</a>
             </div>
           )
         })}</div>

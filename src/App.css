@@ -188,6 +188,15 @@ input.target ~ label {
   margin-top: -10px;
 }
 
+.dash-images, .dash-images-1 {
+  width: 100%;
+  padding: 25px;
+}
+
+.dash-images-1 img {
+  width: 100%;
+}
+
 /* UNIVERSAL TABLE STYLES */
 
 .table thead th {

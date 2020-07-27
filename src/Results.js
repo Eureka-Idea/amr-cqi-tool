@@ -148,7 +148,7 @@ class Results extends React.Component {
       <td className='links'>
         {links.map(l => {
           return <div key={l.text}>
-            <a href={l.link}>{l.title}</a>
+            <a href={l.link} target='_blank'>{l.title}</a>
           </div>
         })}
       </td>

@@ -28,7 +28,7 @@ const departments = [
   { id: 'neon', name: 'Neonatal Intensive Care Unit' },
   { id: 'orth', name: 'Orthopeadics' },
   { id: 'cardi', name: 'Cardiology' },
-  { id: 'pedi', name: 'Pediatric Intensive Care Unit' },
+  { id: 'picu', name: 'Pediatric Intensive Care Unit' },
   { id: 'neur', name: 'Neurology' },
   { id: 'onco', name: 'Oncology' },
   { id: 'burn', name: 'Burn Unit' },

@@ -6,7 +6,8 @@ import './App.css';
 import findLogo from './find-logo.jpg';
 import cdcLogo from './africa-cdc-logo.png';
 import bdLogo from './bd-logo.png';
-import dashboard from './dashboard.png';
+import dashboard1 from './dashboard1.png';
+import dashboard2 from './dashboard2.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import AssessmentSection from './AssessmentSection';
 import Results from './Results';
@@ -249,8 +250,13 @@ class App extends React.Component {
         <div className='note my-3 mx-5'><em>
           Note: This is indicative of the summary output dashboard, but is non-functioning in this online prototype.
         </em></div>
-        <div className='text-center my-5'>
-          <img src={dashboard} />
+        <div className='dash-images-1 text-center m-5'>
+          <img src={dashboard1} />
+          <img src={dashboard2} />
+        </div>
+        <div className='dash-images text-center m-5'>
+          <img src={dashboard1} />
+          <img src={dashboard2} />
         </div>
       </div>
     )

@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/amr-cqi-tool/static/css/main.490fdbee.chunk.css",
-    "main.js": "/amr-cqi-tool/static/js/main.394754c9.chunk.js",
-    "main.js.map": "/amr-cqi-tool/static/js/main.394754c9.chunk.js.map",
+    "main.css": "/amr-cqi-tool/static/css/main.aef0d6ee.chunk.css",
+    "main.js": "/amr-cqi-tool/static/js/main.b0e825b8.chunk.js",
+    "main.js.map": "/amr-cqi-tool/static/js/main.b0e825b8.chunk.js.map",
     "runtime-main.js": "/amr-cqi-tool/static/js/runtime-main.091189c8.js",
     "runtime-main.js.map": "/amr-cqi-tool/static/js/runtime-main.091189c8.js.map",
     "static/css/2.af3c1da9.chunk.css": "/amr-cqi-tool/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ddf71d46.chunk.js": "/amr-cqi-tool/static/js/2.ddf71d46.chunk.js",
-    "static/js/2.ddf71d46.chunk.js.map": "/amr-cqi-tool/static/js/2.ddf71d46.chunk.js.map",
+    "static/js/2.39454eba.chunk.js": "/amr-cqi-tool/static/js/2.39454eba.chunk.js",
+    "static/js/2.39454eba.chunk.js.map": "/amr-cqi-tool/static/js/2.39454eba.chunk.js.map",
     "index.html": "/amr-cqi-tool/index.html",
-    "precache-manifest.10e32c14caea5d5ed106dbfdcd1fe3d1.js": "/amr-cqi-tool/precache-manifest.10e32c14caea5d5ed106dbfdcd1fe3d1.js",
+    "precache-manifest.9dd54cedfd3ff23f21e5f79063f13510.js": "/amr-cqi-tool/precache-manifest.9dd54cedfd3ff23f21e5f79063f13510.js",
     "service-worker.js": "/amr-cqi-tool/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/amr-cqi-tool/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.490fdbee.chunk.css.map": "/amr-cqi-tool/static/css/main.490fdbee.chunk.css.map",
-    "static/js/2.ddf71d46.chunk.js.LICENSE.txt": "/amr-cqi-tool/static/js/2.ddf71d46.chunk.js.LICENSE.txt",
+    "static/css/main.aef0d6ee.chunk.css.map": "/amr-cqi-tool/static/css/main.aef0d6ee.chunk.css.map",
+    "static/js/2.39454eba.chunk.js.LICENSE.txt": "/amr-cqi-tool/static/js/2.39454eba.chunk.js.LICENSE.txt",
     "static/media/africa-cdc-logo.png": "/amr-cqi-tool/static/media/africa-cdc-logo.1fd126e6.png",
     "static/media/bd-logo.png": "/amr-cqi-tool/static/media/bd-logo.2ff30b5d.png",
-    "static/media/dashboard1.png": "/amr-cqi-tool/static/media/dashboard1.89f7327a.png",
+    "static/media/dashboard1.png": "/amr-cqi-tool/static/media/dashboard1.2f340ffe.png",
     "static/media/dashboard2.png": "/amr-cqi-tool/static/media/dashboard2.3069821d.png",
     "static/media/find-logo.jpg": "/amr-cqi-tool/static/media/find-logo.58ca34be.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.091189c8.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ddf71d46.chunk.js",
-    "static/css/main.490fdbee.chunk.css",
-    "static/js/main.394754c9.chunk.js"
+    "static/js/2.39454eba.chunk.js",
+    "static/css/main.aef0d6ee.chunk.css",
+    "static/js/main.b0e825b8.chunk.js"
   ]
 }
